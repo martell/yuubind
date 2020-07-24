@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Executor","Multi-threaded executor."],["LocalExecutor","Single-threaded executor."],["Spawner","A spawner for a multi-threaded executor."],["Task","A spawned future."]]});
